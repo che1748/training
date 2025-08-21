@@ -1,0 +1,8 @@
+, Timestep: 1.000000, NumSteps: 9
+, Timestep: 0.100000, NumSteps: 90
+, Timestep: 0.010000, NumSteps: 900
+, Timestep: 0.001000, NumSteps: 9000
+, Timestep: 0.000100, NumSteps: 90000
+, Timestep: 0.000010, NumSteps: 900000
+, Timestep: 0.000001, NumSteps: 9000000
+error opening file!
